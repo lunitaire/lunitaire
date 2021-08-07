@@ -11,11 +11,22 @@ skullbunnygalaxy@github:~>>  ./hello_world.sh
  (•ㅅ•)  
  /づ　\づ
 
- My name is Atrian. I am a developer, designer, and artist.
- 
- My college degree is in computer graphics. I worked in design before pivoting to working in the tech industry. I have taken on many roles over the years, including multiple engineering titles. My most recent title was software engineer before I switched to working for myself.
- 
- Working for myself means I do a bit of everything, but my favorite tasks revolve around code, design, and the combination of the two.
+```
+
+```console
+skullbunnygalaxy@github:~>>  ./about_me.sh
+
+Name: Atrian. 
+What I do: developer, designer, & artist
+Most recent title: software engineer.
+College degree: AAS Computer Graphics 
+
+Started in graphic design, pivoted to the tech industry, including multiple engineering titles over the years.
+
+Now I work for myself and do a bit of everything.
+
+My favorite tasks revolve around code, design, and the combination of the two.
+
 ```
 
 
