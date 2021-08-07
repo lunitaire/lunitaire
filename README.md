@@ -1,12 +1,12 @@
 ### Hello, world! :ocean: 
 
 ```console
-lunitaire@github>>$ ./hello_world.sh
+skullbunnygalaxy@github>>$ ./hello_world.sh
  My name is Atrian.
 ```
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lunitaire&theme=shades-of-purple&background=1C063F&sideNums=6354E2&fire=FF00D4&currStreakNum=7D18FF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skullbunnygalaxy&theme=shades-of-purple&background=1C063F&sideNums=6354E2&fire=FF00D4&currStreakNum=7D18FF)](https://git.io/streak-stats)
 
 <!--
 **lunitaire/lunitaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
