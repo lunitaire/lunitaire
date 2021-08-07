@@ -1,7 +1,7 @@
 ### Hello, world! :ocean: 
 
 ```console
-skullbunnygalaxy@github>>$ ./hello_world.sh
+skullbunnygalaxy@github:~>>  ./hello_world.sh
 
   /￣￣￣￣￣\
  |  HELLO,  | 
@@ -13,7 +13,9 @@ skullbunnygalaxy@github>>$ ./hello_world.sh
 
  My name is Atrian. I am a developer, designer, and artist.
  
- My college degree is in computer graphics. I worked in design before pivoting to working in the tech industry.
+ My college degree is in computer graphics. I worked in design before pivoting to working in the tech industry. I have taken on many roles over the years, including multiple engineering titles. My most recent title was software engineer before I switched to working for myself.
+ 
+ Working for myself means I do a bit of everything, but my favorite tasks revolve around code, design, and the combination of the two.
 ```
 
 
