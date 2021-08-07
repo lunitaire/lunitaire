@@ -1,9 +1,8 @@
-### Hello, World! :ocean: 
-My name is Atrian.
+### Hello, world! :ocean: 
 
 ```console
-lunitaire@github>>$ welcome...
-
+lunitaire@github>>$ ./hello_world.sh
+ My name is Atrian.
 ```
 
 
