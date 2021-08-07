@@ -18,7 +18,7 @@ skullbunnygalaxy@github:~>>  ./about_me.sh
 
 Name: Atrian. 
 What I do: developer, designer, & artist
-Most recent title: software engineer.
+Most recent title: software engineer
 College degree: AAS Computer Graphics 
 
 Started in graphic design, pivoted to the tech industry, including multiple engineering titles over the years.
