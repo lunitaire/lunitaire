@@ -1,6 +1,13 @@
 ### Hello, World! :ocean: 
+My name is Atrian.
 
-[![Lunitaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunitaire&count_private=true&show_icons=true&theme=outrun&include_all_commits=true&hide=stars&custom_title=Atrian's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+```console
+lunitaire@github>>$ welcome...
+
+```
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lunitaire&theme=shades-of-purple&background=1C063F&sideNums=6354E2&fire=FF00D4&currStreakNum=7D18FF)](https://git.io/streak-stats)
 
 <!--
 **lunitaire/lunitaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
